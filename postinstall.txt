@@ -1,0 +1,1 @@
+sudo apt-get install --assume-yes python3-pip --ignore-missing; sudo pip install geopy

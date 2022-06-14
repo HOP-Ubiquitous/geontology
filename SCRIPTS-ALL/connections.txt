@@ -1,0 +1,62 @@
+b2-7-bhs5
+3de50047-381a-478a-a88d-9341f3546dab	
+Beauharnois (BHS5)
+b2-7	Ubuntu 22.04	
+15.235.40.255
+Activated
+
+
+b2-7-de1
+8332159b-1236-4e33-82e4-8a6e0fdfb7f7	
+Frankfurt (DE1)
+b2-7	Ubuntu 22.04	
+135.125.216.254
+Activated
+
+
+b2-7-gra11
+b30e34cd-0fcc-4d37-8cb7-e4964f4bb10a	
+Gravelines (GRA11)
+b2-7	Ubuntu 22.04	
+141.94.64.137
+Activated
+
+
+b2-7-sbg5
+36c1bf72-aaeb-46d6-8da5-ac259bf355f9	
+Strasbourg (SBG5)
+b2-7	Ubuntu 22.04	
+51.91.144.96
+Activated
+
+
+b2-7-sgp1
+7a39492a-f5f1-46c5-a613-d5058f1d03f3	
+Singapore (SGP1)
+b2-7	Ubuntu 22.04	
+51.79.142.9
+Activated
+
+
+b2-7-syd1
+14ac117e-de3f-4e90-98d3-5eb7efbfda96	
+Sydney (SYD1)
+b2-7	Ubuntu 22.04	
+139.99.217.169
+Activated
+
+
+b2-7-uk1
+40637e03-17ac-4d41-b852-2e4acb3fa929	
+London (UK1)
+b2-7	Ubuntu 22.04	
+54.37.4.73
+Activated
+
+
+b2-7-waw1
+64b90781-714d-4307-ab08-cc06f6d30c18	
+Warsaw (WAW1)
+b2-7	Ubuntu 22.04	
+51.68.146.68
+Activated

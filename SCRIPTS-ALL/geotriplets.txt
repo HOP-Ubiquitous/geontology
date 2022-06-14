@@ -1,0 +1,10 @@
+### ciudad-IP-nombre_de_la_máquina ###
+
+Beauharnois#15.235.40.255#ubuntu
+Frankfurt#135.125.216.254#ubuntu
+Gravelines#141.94.64.137#ubuntu
+Strasbourg#51.91.144.96#ubuntu
+Singapore#51.79.142.9#ubuntu
+Sydney#139.99.217.169#ubuntu
+London#54.37.4.73#ubuntu
+Warsaw#51.68.146.68#ubuntu
